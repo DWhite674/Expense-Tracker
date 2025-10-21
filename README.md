@@ -24,10 +24,6 @@ Track your daily expenses, view summaries, and visualize spending by category. T
 
 ## Screenshots
 
-![Main GUI](screenshots/gui_main.png)  
-![Summary & Graph](screenshots/gui_summary.png)
-
-*(Replace the above images with your actual screenshots of the app)*
 
 ---
 
